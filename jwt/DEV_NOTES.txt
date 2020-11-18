@@ -1,0 +1,4 @@
+Whole code is inspired from this asshole author and shit java/spring community
+==========================================================================
+https://betterjavacode.com/java/securing-spring-boot-rest-api
+
